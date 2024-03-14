@@ -1,3 +1,5 @@
-Conan Exiles Server Laucher
+Conan Exiles Server Launcher
 
-the discord ServerControl part is not yet fully implemented
+The Discord ServerControl part is not yet fully implemented.
+
+Written in Python and compiled into C with Nuitka.
