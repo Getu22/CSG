@@ -5,7 +5,9 @@ Conan Exiles Server GUI
 
 Current Features:
 A backup is created and compressed into a ZIP file upon shutdown.
+
 Option for periodic backups (e.g., game_backup_1.db) as ZIP files, such as automatically every hour.
+
 CPU cores and priority assignment are possible.
 Notifications for game updates and mod updates, with an option to set the server to automatically restart after 5 minutes.
 Port accessibility tests are available.
