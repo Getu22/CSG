@@ -3,6 +3,7 @@ Conan Exiles Server GUI
 
 ![image](https://github.com/Getu22/CSG/assets/163321426/2217f541-85e8-41f9-924a-0b7b41383cec)
 
+
 Current Features:
 
 A backup is created and compressed into a ZIP file upon shutdown.
