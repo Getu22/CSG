@@ -35,3 +35,9 @@ The Discord ServerControl part under "Settings" is not yet fully implemented.
 Written in Python and compiled into C with Nuitka.
 
 
+
+
+For bugs or questions, you can reach me over Discord at: https://discord.gg/ysgdkwp3GH
+
+Discordname: Getu|ADMIN
+
