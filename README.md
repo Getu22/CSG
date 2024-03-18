@@ -31,6 +31,8 @@ Restart warnings are sent via RCON as a broadcast to alert players (if RCON enab
 I am currently working on: 
 The Discord ServerControl part under "Settings" is not yet fully implemented.
 
+The initial server installation process is not 100% clean...you have to install the serverfiles and then close the gui and open it again
+
 
 Written in Python and compiled into C with Nuitka.
 
