@@ -1,7 +1,7 @@
 
 Conan Exiles Server GUI
 
-![image](https://github.com/Getu22/CSG/assets/163321426/2217f541-85e8-41f9-924a-0b7b41383cec)
+![image](https://github.com/Getu22/CSG/assets/163321426/2e3f3fab-825d-48ca-98a8-4b35bb26ca1e)
 
 
 Current Features:
