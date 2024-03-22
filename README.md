@@ -38,7 +38,7 @@ Written in Python and compiled into C with Nuitka.
 
 
 
-For bugs or questions, you can reach me over Discord at: https://discord.gg/ysgdkwp3GH
+To report bugs or if you have questions, you can reach me over m< Discord at: https://discord.gg/ysgdkwp3GH
 
 Discordname: Getu|ADMIN
 
