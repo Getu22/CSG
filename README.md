@@ -42,6 +42,7 @@ After you installed the Serverfiles you have to stop and then close and re-open 
 
 The alternative way to install the serverfiles is to use the official Version from Toolguy: https://forums.funcom.com/t/conan-exiles-dedicated-server-launcher-official-version-1-7-5-beta-1-7-7/21699/3210
 
+After you installed the serverfiles you can use my GUI - please dont run both Serverguis at the same time!
 
 To report bugs or if you have questions, you can reach me over Discord at: https://discord.gg/ysgdkwp3GH
 
