@@ -36,7 +36,7 @@ The initial server installation process is not 100% clean...you have to install 
 Written in Python and compiled into C with Nuitka.
 
 
-Installation BUG -> if you want to install a server you have to download the steamcmd.exe over https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip
+Installation BUG -> if you want to install the serverfiles -> you have to download the steamcmd.exe over https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip
 and copy the steamcmd.exe into the same folder. Then its possible to install the Serverfiles.
 After you installed the Serverfiles you have to stop and then close and re-open the GUI again.
 
