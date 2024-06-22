@@ -40,7 +40,7 @@ Installation BUG -> if you want to install the serverfiles -> you have to downlo
 and copy the steamcmd.exe into the same folder. Then its possible to install the Serverfiles.
 After you installed the Serverfiles you have to stop and then close and re-open the GUI again.
 
-The alternative way to install the serverfiles is to use the official Version from Toolguy: [https://forums.funcom.com/t/conan-exiles-dedicated-server-launcher-official-version-1-7-5-beta-1-7-7/21699/3210](https://forums.funcom.com/t/conan-exiles-dedicated-server-launcher-official-version-1-7-8-beta-1-7-9/21699)
+The alternative way to install the serverfiles is to use the official Version from Toolguy: https://forums.funcom.com/t/conan-exiles-dedicated-server-launcher-official-version-1-7-8-beta-1-7-9/21699
 
 After you installed the serverfiles you can use my GUI - please dont run both Serverguis at the same time!
 
