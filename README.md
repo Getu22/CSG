@@ -30,6 +30,9 @@ Restart warnings are sent via RCON as a broadcast to alert players (if RCON enab
 I am currently working on: 
 The Discord ServerControl part under "Settings" is not yet fully implemented.
 
+first alpha is ready with discord:
+![grafik](https://github.com/user-attachments/assets/eb98023c-6172-4ef6-baf0-f161ef790c07)
+
 The initial server installation process is not 100% clean...you have to install the serverfiles and then close the gui and open it again
 
 
