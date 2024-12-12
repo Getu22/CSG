@@ -1,7 +1,8 @@
 
 Conan Exiles Server GUI
 
-![grafik](https://github.com/user-attachments/assets/4aab13c6-4e83-4643-9832-a24822568778)
+![image](https://github.com/user-attachments/assets/e889d633-47a8-4f1f-80d6-db6cc2f3f587)
+
 
 Current Features:
 
@@ -25,28 +26,14 @@ The player list and player count are queried via A2S every 60 seconds.
 
 Restart warnings are sent via RCON as a broadcast to alert players (if RCON enabled & configured)
 
+Broadcasts & Broadcast history
+
+Discord Server control implemenation
+![image](https://github.com/user-attachments/assets/2176307a-b9db-4d28-b2e6-a1dc99885bb9)
 
 
-I am currently working on: 
-The Discord ServerControl part under "Settings" is not yet fully implemented.
+...and much more
 
-first alpha is ready with discord:
-
-![grafik](https://github.com/user-attachments/assets/eb98023c-6172-4ef6-baf0-f161ef790c07)
-
-The initial server installation process is not 100% clean...you have to install the serverfiles and then close the gui and open it again
-
-
-Written in Python and compiled into C with Nuitka.
-
-
-Installation BUG -> if you want to install the serverfiles -> you have to download the steamcmd.exe over https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip
-and copy the steamcmd.exe into the same folder. Then its possible to install the Serverfiles.
-After you installed the Serverfiles you have to stop and then close and re-open the GUI again.
-
-The alternative way to install the serverfiles is to use the official Version from Toolguy: https://forums.funcom.com/t/conan-exiles-dedicated-server-launcher-official-version-1-7-8-beta-1-7-9/21699
-
-After you installed the serverfiles you can use my GUI - please dont run both Serverguis at the same time!
 
 To report bugs or if you have questions, you can reach me over Discord at: https://discord.gg/ysgdkwp3GH
 
