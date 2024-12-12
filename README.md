@@ -29,6 +29,8 @@ Restart warnings are sent via RCON as a broadcast to alert players (if RCON enab
 Broadcasts & Broadcast history
 
 Discord Server control implemenation
+
+
 ![image](https://github.com/user-attachments/assets/2176307a-b9db-4d28-b2e6-a1dc99885bb9)
 
 
