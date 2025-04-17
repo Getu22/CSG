@@ -37,7 +37,7 @@ Discord Integration: Control the server directly through Discord.
 ...and much more
 
 
-To report bugs or if you have questions, you can reach me over Discord at: https://discord.gg/ysgdkwp3GH
+To report bugs or if you have questions, you can reach me over Discord at: https://discord.gg/darfari
 
 Discordname: Getu|ADMIN
 
